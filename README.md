@@ -84,7 +84,7 @@ variants may work too:
 
  * Install gcc/make/headers: <code>xcode-select --install</code>
  * Install [Homebrew](http://brew.sh/)
- * Install [XQuartz](http://xquartz.macosforge.org/) to support GTK+3
+ * Install [XQuartz](http://xquartz.macosforge.org/) to support GTK+3 (brew install Caskroom/cask/xquartz and brew cask list)
  * Use Homebrew to satisfy dependencies: <code>brew install git autoconf
    automake libtool nettle pkg-config gtk+3 gnome-icon-theme
    hicolor-icon-theme</code>
